@@ -95,16 +95,15 @@ a img{border:0px;}
 /****************************************************/
 /* EXPERIENCE SECTION */
 /****************************************************/
-
 #experience{margin:0px 43px; padding-top:115px;}
-#experience .col{
-	width:235px;
-	float:left;
-}
-#experience .company{float: left}
-#experience .company img {display : block}
-#experience .companyInfo{margin-left: 210px}
-#experience .title{font-weight: bold;font-size: 200%}
+
+#experience .company{float: left;}
+#experience .company img {display : block; margin-bottom:50px;}
+#experience .companyInfo{margin-left: 210px;}
+#experience .title{font-weight: bold;font-size: 200%;}
+#experience .clear{clear: both;}
+
+
 
 /****************************************************/
 /* SKILLS SECTION */
