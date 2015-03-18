@@ -134,6 +134,8 @@ a img{border:0px;}
 	padding:0px;
 	height:225px;
 }
+#work #work-thumbs li img{margin-left: 25px;
+    margin-right: 25px;}
 #work #work-thumbs li.last{margin:0px;}
 #work #work-thumbs li p.caption{/*display: block;*/ line-height:2px; text-align:center;}
 
