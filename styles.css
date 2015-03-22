@@ -47,10 +47,37 @@ a img{border:0px;}
 }
 
 /****************************************************/
-/* BANNER SECTION */
+/* SCREENSHOTS SECTION */
 /****************************************************/
-#banner{margin:0px 25px; padding-top:115px;}
+#screenshots{margin:0px 25px; padding-top:115px;}
+#screenshots .content{overflow:hidden;}
 
+/****************************************************/
+/* DESCRIPTION SECTION */
+/****************************************************/
+#description{margin:0px 25px; padding-top:115px;}
+#description .content{overflow:auto;}
+
+
+/****************************************************/
+/* OVERVIEW SECTION */
+/****************************************************/
+#overview{margin:0px 25px; padding-top:115px;}
+#overview .content{overflow:auto;}
+
+
+
+/****************************************************/
+/* VIDEO	 SECTION */
+/****************************************************/
+#video{margin:0px 25px; padding-top:115px;}
+#video iframe{margin:0px 25px;}
+
+/****************************************************/
+/* VIDEO	 SECTION */
+/****************************************************/
+#roles{margin:0px 25px; padding-top:115px;}
+#roles ul{margin:0px 25px;}
 
 
 /****************************************************/
