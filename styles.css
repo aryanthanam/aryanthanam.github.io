@@ -47,6 +47,13 @@ a img{border:0px;}
 }
 
 /****************************************************/
+/* BANNER SECTION */
+/****************************************************/
+#banner{margin:0px 25px; padding-top:115px;}
+
+
+
+/****************************************************/
 /* ABOUT SECTION */
 /****************************************************/
 
@@ -205,6 +212,7 @@ a img{border:0px;}
 	height:26px;
 	margin-right:10px;
 }
+#connect .bolded {font-weight: bold;}
 #connect #social-footer #sm-links li a.facebook{background:url(images/sm-facebook-icon.png) no-repeat;}
 #connect #social-footer #sm-links li a.twitter{background:url(images/sm-twitter-icon.png) no-repeat; width:31px;}
 #connect #social-footer #sm-links li a.dribble{background:url(images/sm-dribble-icon.png) no-repeat;}
