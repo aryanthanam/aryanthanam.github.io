@@ -71,6 +71,7 @@ a img{border:0px;}
 /* VIDEO	 SECTION */
 /****************************************************/
 #video{margin:0px 25px; padding-top:115px;}
+#video iframe {margin:0px 25px;}
 #video iframe .vimeo{margin:0px 25px;}
 #video iframe .youtube{margin:0px 25px;}
 
