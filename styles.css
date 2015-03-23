@@ -49,7 +49,7 @@ a img{border:0px;}
 /****************************************************/
 /* SCREENSHOTS SECTION */
 /****************************************************/
-#screenshots{margin:0px 25px; padding-top:115px;}
+#screenshots{margin:0px 25px; padding-top:15px;}
 #screenshots .content{overflow:hidden;}
 
 /****************************************************/
@@ -62,7 +62,7 @@ a img{border:0px;}
 /****************************************************/
 /* OVERVIEW SECTION */
 /****************************************************/
-#overview{margin:0px 25px; padding-top:115px;}
+#overview{margin:0px 25px; padding-top:15px;}
 #overview .content{overflow:auto;}
 
 
@@ -70,15 +70,15 @@ a img{border:0px;}
 /****************************************************/
 /* VIDEO	 SECTION */
 /****************************************************/
-#video{margin:0px 25px; padding-top:115px;}
+#video{margin:0px 25px; padding-top:15px;}
 #video iframe {margin:0px 25px;}
 #video iframe .vimeo{margin:0px 25px;}
 #video iframe .youtube{margin:0px 25px;}
 
 /****************************************************/
-/* VIDEO	 SECTION */
+/* ROLES	 SECTION */
 /****************************************************/
-#roles{margin:0px 25px; padding-top:115px;}
+#roles{margin:0px 25px; padding-top:15px;}
 #roles ul{margin:0px 25px;}
 
 
